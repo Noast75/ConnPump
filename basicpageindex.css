@@ -116,7 +116,7 @@ ul li:hover a {
 	
 }
 .photo{
-    display: flex;
+    display: inline-flex;
     flex-direction: column;
     width: 35%;
 	margin-left: 500px;
