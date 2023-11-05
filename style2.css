@@ -159,6 +159,39 @@ ul li:hover a {
 	float: left;
 	margin-top: 35px;
 }
+.stats2 {
+	color: #717070;
+	margin-bottom: 5px;
+}
+.gallery2 {
+	clear: both;
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	background-color: #FFFFFF;
+	text-align:center;
+	margin-left:0px;
+	/* [disabled]min-width: 400px;
+*/
+	padding-bottom: 35px;
+	padding-top: 0px;
+	margin-top: -5px;
+	margin-bottom: 0px;
+}
+.thumbnail2 {
+	width: 25%;
+	text-align: center;
+	float: left;
+	margin-top: 35px;
+	margin-left:500px;
+}
+.gallery2 .thumbnail2 h4{
+	margin-top: 5px;
+	margin-right: 25px;
+	margin-bottom: 5px;
+	margin-left: 25px;
+	color: #52BAD5;
+}
 .gallery .thumbnail h4 {
 	margin-top: 5px;
 	margin-right: 25px;
