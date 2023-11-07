@@ -109,6 +109,7 @@ ul li:hover a {
     text-indent: 50px;
     font-weight: bolder;
     font-size:xx-large;
+	padding-top: 50px;
 	text-decoration: underline;
 	background-color: #ffffff;
 	background-size: auto;
