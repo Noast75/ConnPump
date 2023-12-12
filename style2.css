@@ -183,7 +183,7 @@ ul li:hover a {
 	padding-top: 0px;
 	margin-top: -5px;
 	margin-bottom: 0px;
-	margin-left: 500px;
+	padding-left: 500px;
 	*/
 }
 .thumbnail2 {
@@ -191,7 +191,8 @@ ul li:hover a {
 	text-align: center;
 	float: left;
 	margin-top: 35px;
-	/* margin-left:500px;
+	
+	padding-left: 500px;
 	*/
 }
 .gallery2 .thumbnail2 h4{
@@ -201,6 +202,7 @@ ul li:hover a {
 	margin-left: 25px;
 	color: #52BAD5;
 	text-align: center;
+	padding-left: 500px;
 	
 }
 .gallery .thumbnail h4 {
