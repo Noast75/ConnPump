@@ -176,14 +176,14 @@ ul li:hover a {
 	width: 100%;
 	background-color: #FFFFFF;
 	text-align:center;
-	margin-left:0px;
+	margin-left:auto;
 	/* [disabled]min-width: 400px;
 */
 	padding-bottom: 35px;
 	padding-top: 0px;
 	margin-top: -5px;
 	margin-bottom: 0px;
-	padding-left: 500px;
+	padding-left: auto;
 	*/
 }
 .thumbnail2 {
