@@ -163,6 +163,7 @@ ul li:hover a {
 .stats2 {
 	color: #717070;
 	margin-bottom: 5px;
+	text-align: center;
 }
 .gallery2 {
 	clear: both;
@@ -229,7 +230,7 @@ ul li:hover a {
 	text-align: center;
 	padding-right: 0px;
 	width: 30%;
-	padding-left:590px;
+	padding-left:500px;
 	font-weight: lighter;
 	line-height: 23px;
 	margin-top: 0px;
