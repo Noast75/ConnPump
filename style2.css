@@ -201,18 +201,19 @@ ul li:hover a {
   position: relative;
   text-align: center;
   padding-top:500px;
-  color: white;
+  color: #000000;
   margin-top: 250px;
-  max-width: 800px;
+ 
 }
 .text-column {
   position: absolute;
   left: 50%;
-  transform: translateX(-100%);
+  transform: translateX(-50%);
   width: 100%;
   text-align: center;
-  color: white;
+  
   margin-top: 250px;
+	color: #000000;
 }
 
 .centered-text1 {
