@@ -108,15 +108,14 @@ ul li:hover a {
 	
 	
 }
-.photo{
+.photo {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 35%;
-
-	padding-top: 0px;
-	margin-top: 55px;
-	border: 5px solid #043745;
+    padding-top: 0px;
+    margin: auto;
+    border: 5px solid #043745;
 }
 .DualPhotos{
     display: flex;
