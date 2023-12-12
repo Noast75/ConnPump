@@ -153,7 +153,7 @@ ul li:hover a {
 	padding-bottom: 35px;
 	padding-top: 0px;
 	margin-top: -5px;
-	margin-bottom: 800px;
+	margin-bottom: 0px;
 	text-align: center;
 }
 .thumbnail {
@@ -201,7 +201,8 @@ ul li:hover a {
   position: relative;
   text-align: center;
   color: #FFFFFF;
-  height: 500px;
+  height: auto;
+  margin-bottom: 500px;
 }
 
 .text-column1 {
@@ -213,7 +214,7 @@ ul li:hover a {
   text-align: center;
   color: #FFFFFF;
   padding-top: 50px;
-	margin-bottom: 250px;
+  margin-bottom: 250px;
 }
 
 .centered-text1 {
