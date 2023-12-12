@@ -204,21 +204,27 @@ ul li:hover a {
 
 .centered-text1 {
   position: absolute;
-  top: 100%; /* Adjust as needed */
+  top: 0; /* Adjust as needed */
   left: 50%;
   transform: translateX(-50%);
+  color: gray;
+  font-size: 24px;
 }
 .centered-text2 {
   position: absolute;
-  top: 100%; /* Adjust as needed */
+  bottom: 0; /* Adjust as needed */
   left: 50%;
   transform: translateX(-50%);
+	font-size: 16px;
+	color: #717070;
+	
 }
 .centered-text3 {
   position: absolute;
-  top: 100%; /* Adjust as needed */
+  bottom: 0; /* Adjust as needed */
   left: 50%;
   transform: translateX(-50%);
+	font-size:16px
 }
 .gallery2 .thumbnail2 h4{
 	margin-top: 5px;
