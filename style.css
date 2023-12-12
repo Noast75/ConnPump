@@ -29,45 +29,38 @@ header {
 	color: #fff;
 	font-weight: bold;
 	text-align: center;
-    text-justify:auto;
+	text-justify: auto;
 	width: 10%;
-	float: right;
+	float: left; /* Changed from right to left */
 	margin-top: 40px;
-	margin-left: 25px;
+	margin-right: 25px; /* Changed from margin-left to margin-right */
 	letter-spacing: 4px;
 }
 nav {
-	float: center;
-	width: 50%;
+	width: 90%; /* Increased from 50% to 90% */
 	text-align: center;
-	margin-right: 25px;
+	margin-left: 10%; /* Added margin-left */
 }
+
 header nav ul {
 	list-style: none;
-	float: right;
+	display: inline-block; /* Changed from float to display */
 }
 nav ul li {
-    display: inline-block;
-	text-overflow:ellipsis;
-    text-justify: distribute;
-    text-align: center;
-
-    
-    
-    
+	display: inline-block;
+	text-overflow: ellipsis;
+	text-justify: distribute;
+	text-align: center;
 	color: #FFFFFF;
 	font-size: 14px;
-    overflow: visible;
-    white-space: nowrap;
-    max-width: 300px;
-	
-    
-    margin-left: 0px;
-	margin-right:100px;
-    margin-bottom: 10px;
+	overflow: visible;
+	white-space: nowrap;
+	padding-top: 35px;
+	margin-left: 0px;
+	margin-right: 10px; /* Reduced from 100px to 20px */
+	margin-bottom: 10px;
 	letter-spacing: 1px;
 	font-weight: bold;
-    
 	transition: all 0.3s linear;
 }
 ul li a {
