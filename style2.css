@@ -200,6 +200,9 @@ ul li:hover a {
 .image-container {
   position: relative;
   text-align: center;
+  padding-top:500px;
+  color: white;
+  margin-top: 250px;
 }
 .text-column {
   position: absolute;
