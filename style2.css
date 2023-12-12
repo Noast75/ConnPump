@@ -207,7 +207,7 @@ ul li:hover a {
 }
 
 .text-column1 {
-  position: absolute;
+  
   top: 100%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -249,7 +249,7 @@ ul li:hover a {
   left: 50%;
   transform: translateX(-50%);
   font-size:16px;
-  color: #000000
+  color: #000000;
 }
 .gallery2 .thumbnail2 h4{
 	margin-top: 5px;
