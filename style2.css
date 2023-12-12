@@ -225,8 +225,10 @@ ul li:hover a {
   transform: translate(-50%, -50%);
   color: #52BAD5;
   font-size: 24px;
-  padding-bottom: 40px;
+ 
+  margin-top: 25px;
   margin-bottom:25px;
+  padding-top: 15px;
 }
 
 .centered-text2 {
@@ -235,8 +237,8 @@ ul li:hover a {
   left: 50%;
   transform: translateX(-50%);
   font-size: 16px;
-  color: #717070;
-  padding-bottom:20px;
+  color: #000000;
+  
   margin-bottom: 20px;
 }
 
@@ -246,6 +248,7 @@ ul li:hover a {
   left: 50%;
   transform: translateX(-50%);
   font-size:16px;
+  color: #000000
 }
 .gallery2 .thumbnail2 h4{
 	margin-top: 5px;
