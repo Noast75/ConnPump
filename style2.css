@@ -203,6 +203,7 @@ ul li:hover a {
   padding-top:500px;
   color: white;
   margin-top: 250px;
+  max-width: 800px;
 }
 .text-column {
   position: absolute;
@@ -210,6 +211,8 @@ ul li:hover a {
   transform: translateX(-100%);
   width: 100%;
   text-align: center;
+  color: white;
+  margin-top: 250px;
 }
 
 .centered-text1 {
