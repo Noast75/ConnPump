@@ -201,6 +201,13 @@ ul li:hover a {
   position: relative;
   text-align: center;
 }
+.text-column {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  text-align: center;
+}
 
 .centered-text1 {
   position: absolute;
