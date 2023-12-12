@@ -200,45 +200,43 @@ ul li:hover a {
 .image-container {
   position: relative;
   text-align: center;
-  padding-top:100px;
   color: #000000;
-  margin-top: 100px;
- 
 }
-.text-column {
+
+.text-column1 {
   position: absolute;
+  top: 50%;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translate(-50%, -50%);
   width: 100%;
   text-align: center;
-  
-  margin-top: 100px;
-	color: #000000;
+  color: #000000;
 }
 
 .centered-text1 {
   position: absolute;
-  top: 0; /* Adjust as needed */
+  top: 50%;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translate(-50%, -50%);
   color: gray;
   font-size: 24px;
 }
+
 .centered-text2 {
   position: absolute;
-  bottom: 0; /* Adjust as needed */
+  bottom: 0;
   left: 50%;
   transform: translateX(-50%);
-	font-size: 16px;
-	color: #717070;
-	
+  font-size: 16px;
+  color: #717070;
 }
+
 .centered-text3 {
   position: absolute;
-  bottom: 0; /* Adjust as needed */
+  bottom: 0;
   left: 50%;
   transform: translateX(-50%);
-	font-size:16px
+  font-size:16px;
 }
 .gallery2 .thumbnail2 h4{
 	margin-top: 5px;
