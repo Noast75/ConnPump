@@ -166,7 +166,8 @@ ul li:hover a {
 	color: #717070;
 	margin-bottom: 5px;
 	text-align: center;
-	
+	margin-left: 540px;
+	margin-right: 540px;
 	*/
 }
 .gallery2 {
@@ -176,14 +177,15 @@ ul li:hover a {
 	width: 100%;
 	background-color: #FFFFFF;
 	text-align:center;
-	margin-left:auto;
+	margin-left: 540px;
+	margin-right: 540px;
 	/* [disabled]min-width: 400px;
 */
 	padding-bottom: 35px;
 	padding-top: 0px;
 	margin-top: -5px;
 	margin-bottom: 0px;
-	padding-left: auto;
+	
 	*/
 }
 .thumbnail2 {
