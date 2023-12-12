@@ -116,11 +116,11 @@ ul li:hover a {
 	
 }
 .photo{
-    display: inline-flex;
-    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 35%;
-	margin-left: 460px;
-	margin-right: 500px;
+
 	padding-top: 0px;
 	margin-top: 55px;
 	border: 5px solid #043745;
