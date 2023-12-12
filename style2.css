@@ -195,7 +195,7 @@ ul li:hover a {
 	margin-top: 35px;
 	
 	
-	*/
+	
 }
 .image-container {
   position: relative;
@@ -228,7 +228,7 @@ ul li:hover a {
   font-size: 24px;
  
   margin-top: 25px;
-  margin-bottom:25px;
+  
   padding-top: 15px;
 }
 
@@ -240,7 +240,7 @@ ul li:hover a {
   font-size: 16px;
   color: #000000;
   
-  margin-bottom: 20px;
+  
 }
 
 .centered-text3 {
@@ -608,5 +608,5 @@ nav ul li {
 .banner {
 	margin-top: 0px;
 	padding-top: 0px;
-}
+	}
 }
