@@ -223,9 +223,10 @@ ul li:hover a {
   top: 0;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: gray;
+  color: #52BAD5;
   font-size: 24px;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
+  margin-bottom:25px;
 }
 
 .centered-text2 {
@@ -236,6 +237,7 @@ ul li:hover a {
   font-size: 16px;
   color: #717070;
   padding-bottom:20px;
+  margin-bottom: 20px;
 }
 
 .centered-text3 {
