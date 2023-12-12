@@ -197,6 +197,29 @@ ul li:hover a {
 	
 	*/
 }
+.image-container {
+  position: relative;
+  text-align: center;
+}
+
+.centered-text1 {
+  position: absolute;
+  top: 100%; /* Adjust as needed */
+  left: 50%;
+  transform: translateX(-50%);
+}
+.centered-text2 {
+  position: absolute;
+  top: 100%; /* Adjust as needed */
+  left: 50%;
+  transform: translateX(-50%);
+}
+.centered-text3 {
+  position: absolute;
+  top: 100%; /* Adjust as needed */
+  left: 50%;
+  transform: translateX(-50%);
+}
 .gallery2 .thumbnail2 h4{
 	margin-top: 5px;
 	margin-right: 25px;
