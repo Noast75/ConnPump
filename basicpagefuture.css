@@ -101,19 +101,18 @@ ul li:hover a {
 .design{
     text-indent: 50px;
     font-weight: bolder;
-    font-size:xx-large;
+    font-size: large;
 	text-decoration: underline;
 	background-color: #ffffff;
 	background-size: auto;
-	padding-bottom: 50px;
-	text-align: left;
+	
 	
 }
 .photo{
     display: flex;
     flex-direction: column;
     width: 35%;
-	margin-left: 570px;
+	margin-left: 460px;
 	padding-top: 0px;
 	margin-top: 55px;
 	border: 5px solid #043745;
@@ -123,22 +122,21 @@ ul li:hover a {
     flex-direction: column;
 
     width: 35%;
-	margin-left: 570px;
+	margin-left: 460px;
 	padding-top: 0px;
 	margin-top: 0px;
 	border: 5px solid #043745;
 }
 .DesignDescription{
-	font-size:larger;
-	text-align: left ;
-	margin-left: 200px;
+	font-size: medium;
+	text-align: center ;
+	margin-left: 500px;
 	display:inline-block;
-	margin-right: 200px;
+	margin-right: 500px;
 	text-decoration: none;
 	background-size: 1000px;
-	padding-top:100px;
 	padding-bottom: 100px;
-	text-indent: 50px;
+	
 }
 /* About Section */
 .text_column {
@@ -152,26 +150,6 @@ ul li:hover a {
 	color: #000000;
 }
 .about {
-	
-	padding-left: 100px;
-	padding-right: 100px;
-	padding-top: 0px;
-	
-	display:flex;
-	flex-direction: row;
-
-	justify-content: center;
-	justify-content:space-evenly;
-	size: 100%;
-	background-color: #FFFFFF;
-	margin-top: 0px;
-	
-	
-	text-align: center;
-	
-
-}
-.about2 {
 	
 	padding-left: 100px;
 	padding-right: 100px;
@@ -356,7 +334,7 @@ footer .footer_column p {
 	padding-top: 60px;
 	padding-bottom: 60PX;
 	margin-bottom: 0px;
-	margin-top: 200px;
+	margin-top: 500px;
 	background-image: url(../images/pattern.png);
 	background-repeat: repeat;
 }
